@@ -15,7 +15,7 @@
 
 
         <div class="p-3 mb-2 bg-light text-secondary-emphasis  ">
-            <h1 class=" p-3 text-center"> Bienvenue chez <b>Computerz</b> ! </i></h1>
+            <h1 class=" p-4 text-center"> Bienvenue chez <b>Computerz</b> ! </i></h1>
         </div>
 
         <p><img src="images/promo.jpg" class="img-fluid" alt="..."></p>
