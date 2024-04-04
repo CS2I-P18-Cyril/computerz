@@ -16,10 +16,11 @@
 
         <div class="p-3 mb-2 bg-light text-secondary-emphasis  ">
             <h1 class=" p-4 text-center"> Bienvenue chez <b>Computerz</b> ! </i></h1>
+            <p><img src="images/promo.jpg" class="img-fluid" alt="..."></p>
         </div>
     </div>
     <div class ="container">
-        <p><img src="images/promo.jpg" class="img-fluid" alt="..."></p>
+        
         <div class="row">
             <div class="col-md-4">
             <h1 class="display-4 mb-3"><b>Notre boutique</b></h1>
