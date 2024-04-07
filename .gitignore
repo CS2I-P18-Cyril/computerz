@@ -1,2 +1,3 @@
 # Ignore files or directories
 vendor
+date/configuration.php
